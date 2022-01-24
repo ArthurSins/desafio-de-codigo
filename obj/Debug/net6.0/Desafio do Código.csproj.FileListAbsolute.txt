@@ -1,0 +1,15 @@
+C:\Users\arthu\Desktop\Desafio do Código\obj\Debug\net6.0\Desafio do Código.csproj.AssemblyReference.cache
+C:\Users\arthu\Desktop\Desafio do Código\obj\Debug\net6.0\Desafio do Código.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Desktop\Desafio do Código\obj\Debug\net6.0\Desafio do Código.AssemblyInfoInputs.cache
+C:\Users\arthu\Desktop\Desafio do Código\obj\Debug\net6.0\Desafio do Código.AssemblyInfo.cs
+C:\Users\arthu\Desktop\Desafio do Código\obj\Debug\net6.0\Desafio do Código.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Desktop\Desafio do Código\bin\Debug\net6.0\Desafio do Código.exe
+C:\Users\arthu\Desktop\Desafio do Código\bin\Debug\net6.0\Desafio do Código.deps.json
+C:\Users\arthu\Desktop\Desafio do Código\bin\Debug\net6.0\Desafio do Código.runtimeconfig.json
+C:\Users\arthu\Desktop\Desafio do Código\bin\Debug\net6.0\Desafio do Código.dll
+C:\Users\arthu\Desktop\Desafio do Código\bin\Debug\net6.0\ref\Desafio do Código.dll
+C:\Users\arthu\Desktop\Desafio do Código\bin\Debug\net6.0\Desafio do Código.pdb
+C:\Users\arthu\Desktop\Desafio do Código\obj\Debug\net6.0\Desafio do Código.dll
+C:\Users\arthu\Desktop\Desafio do Código\obj\Debug\net6.0\ref\Desafio do Código.dll
+C:\Users\arthu\Desktop\Desafio do Código\obj\Debug\net6.0\Desafio do Código.pdb
+C:\Users\arthu\Desktop\Desafio do Código\obj\Debug\net6.0\Desafio do Código.genruntimeconfig.cache
